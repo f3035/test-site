@@ -25,3 +25,5 @@ Syntax highlighted code block
 |---|---|---|
 |*String1*|`String2`|**String3**|
 |1|2|3|
+
+[page1](pages/page1.md)
