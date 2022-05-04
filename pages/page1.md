@@ -1,29 +1,5 @@
 [Welcome to Pages](../index.md)
 
-<table>
-	<tr>
-		<th>Month</th>
-		<th>Savings</th>
-		<th>Spending</th>
- 	</tr>
- 	<tr>
-  		<td>January</td>
-   		<td>$100</td>
-		<td>$900</td>
- 	</tr>
-	<tr>
-  		<td>July</td>
-   		<td>$750</td>
-		<td>$1000</td>
- 	</tr>
-	<tr>
-  		<td>December</td>
-   		<td>$250</td>
-		<td>$300</td>
- 	</tr>
-	<tr>
-  		<td>April</td>
-   		<td>$400</td>
-		<td>$700</td>
- 	</tr>
-</table>
+|Game|Year|Platform(s)|
+|---|---|---|
+|**God of War**|2018|`PS5`|
