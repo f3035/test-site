@@ -19,3 +19,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+
+|Row1|Row2|Row3|
+|---|---|---|
+|*String1*|`String2`|**String3**|
+|1|2|3|
